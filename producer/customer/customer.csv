@@ -1,0 +1,101 @@
+customer_id,name,age,city
+CUST_001,Grace Martin,48,Charlotte
+CUST_002,Karen Davis,40,San Antonio
+CUST_003,Zack Jackson,42,Austin
+CUST_004,Karen White,55,San Diego
+CUST_005,Xavier Williams,41,Boston
+CUST_006,Chloe Lewis,54,Houston
+CUST_007,Grace Rodriguez,50,Jacksonville
+CUST_008,Paul Robinson,44,Phoenix
+CUST_009,Victor Smith,43,Seattle
+CUST_010,Ivy Hernandez,28,Dallas
+CUST_011,Amy Davis,41,Columbus
+CUST_012,Quinn Thomas,45,San Antonio
+CUST_013,Ben Rodriguez,23,Washington
+CUST_014,Noah Jackson,57,Denver
+CUST_015,Uma Sanchez,30,Charlotte
+CUST_016,Tom Johnson,36,Phoenix
+CUST_017,Liam Smith,46,Los Angeles
+CUST_018,Dan Lewis,46,San Francisco
+CUST_019,Tom Taylor,44,San Diego
+CUST_020,Ivy Miller,34,Houston
+CUST_021,Mia Garcia,59,Fort Worth
+CUST_022,Chloe Jackson,40,Denver
+CUST_023,Jack Clark,52,Houston
+CUST_024,Victor Robinson,55,Chicago
+CUST_025,Ben Smith,25,San Diego
+CUST_026,Liam Martin,48,Charlotte
+CUST_027,Noah Robinson,32,San Jose
+CUST_028,Wendy Thomas,38,New York
+CUST_029,Eve Wilson,27,Indianapolis
+CUST_030,Victor Thomas,59,El Paso
+CUST_031,Noah Thomas,42,Dallas
+CUST_032,Sara Hernandez,56,San Jose
+CUST_033,Frank Garcia,36,Columbus
+CUST_034,Mia Clark,39,Los Angeles
+CUST_035,Paul Jackson,27,Jacksonville
+CUST_036,Paul Lewis,40,Seattle
+CUST_037,Victor Johnson,47,Denver
+CUST_038,Tom Sanchez,57,Phoenix
+CUST_039,Chloe Miller,40,Nashville
+CUST_040,Liam Brown,39,San Antonio
+CUST_041,Paul Rodriguez,54,Houston
+CUST_042,Ivy Sanchez,56,San Antonio
+CUST_043,Tom Robinson,57,New York
+CUST_044,Hank Taylor,26,Los Angeles
+CUST_045,Liam Robinson,37,San Antonio
+CUST_046,Bob Garcia,45,Charlotte
+CUST_047,Uma Johnson,43,Chicago
+CUST_048,Amy Thompson,35,Dallas
+CUST_049,Ben Williams,34,Phoenix
+CUST_050,Olivia Thompson,30,Denver
+CUST_051,Dan Perez,49,Detroit
+CUST_052,Ryan Clark,59,Boston
+CUST_053,Mia Taylor,28,San Francisco
+CUST_054,Liam Anderson,44,Fort Worth
+CUST_055,Zack Smith,47,Philadelphia
+CUST_056,Bob Brown,26,Washington
+CUST_057,Noah Anderson,55,Jacksonville
+CUST_058,Eve Hernandez,49,Seattle
+CUST_059,Sara Lewis,52,Nashville
+CUST_060,Victor Davis,35,San Jose
+CUST_061,Zack Smith,33,New York
+CUST_062,Paul Rodriguez,27,Indianapolis
+CUST_063,Frank Miller,54,Denver
+CUST_064,Tom Thomas,37,San Antonio
+CUST_065,Ryan Miller,44,Houston
+CUST_066,Ben Rodriguez,56,Dallas
+CUST_067,Wendy Johnson,34,Columbus
+CUST_068,Ben Robinson,26,El Paso
+CUST_069,Amy Garcia,41,San Jose
+CUST_070,Sara Taylor,45,Charlotte
+CUST_071,Mia Thomas,46,Chicago
+CUST_072,Tom Johnson,30,San Antonio
+CUST_073,Paul Jackson,27,Detroit
+CUST_074,Tom Sanchez,34,Boston
+CUST_075,Frank Lewis,46,Dallas
+CUST_076,Noah Hernandez,31,Fort Worth
+CUST_077,Victor Smith,23,Washington
+CUST_078,Tom Taylor,46,Charlotte
+CUST_079,Paul Miller,39,New York
+CUST_080,Jack Hernandez,51,Seattle
+CUST_081,Victor Robinson,58,Houston
+CUST_082,Tom Anderson,45,Jacksonville
+CUST_083,Sara Taylor,49,San Antonio
+CUST_084,Frank Jackson,20,Chicago
+CUST_085,Eve Johnson,30,San Francisco
+CUST_086,Olivia Miller,29,Denver
+CUST_087,Ivy Jackson,42,Columbus
+CUST_088,Ben Jackson,48,Charlotte
+CUST_089,Bob Lopez,33,Philadelphia
+CUST_090,Uma Sanchez,38,Indianapolis
+CUST_091,Chloe Smith,47,El Paso
+CUST_092,Mia Martin,59,Nashville
+CUST_093,Hank Williams,50,Detroit
+CUST_094,Jack Thompson,35,Boston
+CUST_095,Ryan Taylor,56,Phoenix
+CUST_096,Noah Lee,50,Chicago
+CUST_097,Ben Smith,40,Nashville
+CUST_098,Alice Williams,37,Memphis
+CUST_099,Jack Perez,22,San Diego
+CUST_100,Noah White,51,Charlotte

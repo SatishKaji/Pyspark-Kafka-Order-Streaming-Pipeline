@@ -1,0 +1,10 @@
+FROM apache/spark:4.1.0-preview3-scala2.13-java17-python3-ubuntu
+
+WORKDIR /app
+
+COPY consumer.py /app/
+
+
+
+ENV PATH="/opt/spark/bin:${PATH}"
+
