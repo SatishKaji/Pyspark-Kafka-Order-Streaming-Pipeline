@@ -55,6 +55,7 @@ def run_consumer():
             .outputMode("append") \
             .foreachBatch(non_empty_df) \
             .option("checkpointLocation", "/tmp/consumer_checkpoint") \
+            .trigger(processingTime="10 seconds") \
             .start()
 
         query.awaitTermination()
